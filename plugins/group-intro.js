@@ -12,7 +12,7 @@ let krtu = `0ཻུ۪۪ꦽꦼ̷⸙‹•═════════════�
 │ *Agama    :* 
 │ *Status     :* 
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
-http://lynk.id/chaata
+http://Instagram.com/@ard_0211
 `
 conn.fakeReply(m.chat, krtu, '0@s.whatsapp.net', wm)
 }
