@@ -15,15 +15,15 @@ const {
                             itemCount : 999,
                             status: 1,
                             surface : 1,
-                            message: `Okta\n5 Menit`, //Kasih namalu
-                            orderTitle: `Nakano Nino\n5 Menit`,
+                            message: `Ardian\n5 Menit`, //Kasih namalu
+                            orderTitle: `YanzBot\n5 Menit`,
                             thumbnail: await (await fetch(giflogo2)).buffer(), //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
                         }
                       }
           //m.reply(teks)
-          let jawab = `*Bot aktif selama*\n5 Menit\n\n_©ᴏᴋᴛᴀ_`.trim()
+          let jawab = `*Bot aktif selama*\n5 Menit\n\n_©Ardian_`.trim()
 conn.sendMessage(m.chat,{text:wm}, {quoted: ftrol})
 }
 
